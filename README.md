@@ -1,2 +1,3 @@
 Hello,
-This is my profile, I'm learning js and python. 
+This is my profile
+I can js :)
